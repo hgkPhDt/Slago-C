@@ -25,10 +25,22 @@
 
    > Pág. 14. Calcula a média de um aluno.
 
-4. Exercício1.4c
+4. Exercício1.4.c
 
    > Pág. 14. Calcula a média de consumo de um veículo por quilometro percorrido.
 
-5. Exercício1.5c
+5. Exercício1.5.c
+
+   > Pág. 14. Informa os códigos decimais, octagonais e hexadecimais do caractere informado pelo usuário.
+
+6. Exercício1.6.c
+
+   > Pág. 14. Faz a conversão do grau Fahrenheit (ºF) para Celsius (ºC) e vice versa.
+
+7. Exercício1.7.c
 
    > Pág. 14. 
+
+8. Exercício1.8.c
+
+   > Unknow
