@@ -9,7 +9,7 @@
 
 ###### > https://www.ime.usp.br/~slago/slago-C.pdf
 
-> **Obrigado ao conteúdo _Gratuito_ disponivel na internet. **
+> **Obrigado ao conteúdo _Gratuito_ disponivel na internet.**
 
 #### Exercícios:
 
