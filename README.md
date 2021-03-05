@@ -63,7 +63,7 @@
 
 13. Exercício2.3.c
 
-    > Pág. 18. Indique se o ano informado é ou não bissexto.
+    > Pág. 18. Indica se o ano informado é ou não bissexto.
 
 14. Exercício2.4.c
 
