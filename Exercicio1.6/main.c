@@ -12,14 +12,14 @@ void limpabuffer(){
 }
 
 int main(){
-	
+
 	// Declarando as variáveis.
 	short int fahrenheit, celsius;
 	unsigned char op;
 	bool lup;
-	
+
 	do{
-		
+
 		//Limpando a tela
 		system("clear");
 
@@ -96,7 +96,7 @@ int main(){
 
 		//Limpando o buffer
 		limpabuffer();
-			
+
 	}while(lup);
 
 	//Limpando o terminal

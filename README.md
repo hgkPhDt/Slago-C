@@ -39,7 +39,7 @@
 
 7. Exercício1.7.c
 
-   > Pág. 14. 
+   > Pág. 14. Calcula o Cateto Oposto e o  Cateto Adjacente, obtendo a raiz quadrada e informando seu resultado.
 
 8. Exercício1.8.c
 
