@@ -2,10 +2,10 @@
 
 ###### Códigos melhorados e exercícios respondidos da apostila gratuita do Silvio do lago pereira.
 
- Apresento a vocês, os códigos e os exercícios feitos, que contém na apostila "Slago-C", disponibilizado pelo Instituto de Matemática e Estatística da Universidade de São Paulo. 
- Como notarão, existe algumas alterações, pois algumas coisas se tornaram obsoletas com o tempo e algumas modificações para tornar o código um pouco mais apresentável e intuítivo.
+​		Apresento a vocês, os códigos e os exercícios feitos, que contém na apostila "Slago-C", disponibilizado pelo Instituto de Matemática e Estatística da Universidade de São Paulo. 
+​		Como notarão, existe algumas alterações, pois algumas coisas se tornaram obsoletas com o tempo e algumas modificações para tornar o código um pouco mais apresentável e intuítivo.
 
- Caso esta apostila esteja indisponível no link citado abaixo, fiz questão de a incluir neste commit.
+​		Caso esta apostila esteja indisponível no link citado abaixo, fiz questão de a incluir neste commit.
 
 ###### > https://www.ime.usp.br/~slago/slago-C.pdf
 
@@ -44,3 +44,27 @@
 8. Exercício1.8.c
 
    > Unknow
+   
+9. Exercício1.9.c
+
+   > Unknow
+
+10. Exercício2.0.c
+
+    > Unknow
+
+11. Exercício2.1.c
+
+    > Unknow
+
+12. Exercício2.2.c
+
+    > Pág. 18. Dado dois números distintos, informe qual dele é o maior.
+
+13. Exercício2.3.c
+
+    > Pág. 18. Indique se o ano informado é ou não bissexto.
+
+14. Exercício2.4.c
+
+    > Unknow
