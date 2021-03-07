@@ -7,7 +7,7 @@
 
 ​		Você irá notar que alguns exercícios vão estar com "**Unknow**" abaixo. Esses exercícios, na verdade não existem de fato. São apenas exercícios comentados e em sua grande parte desnecessário ao meu ponto de vista. Caso queria mais informações, leia a apostila.
 
-​		Caso esta apostila esteja indisponível no link citado abaixo, fiz questão de a incluir neste commit.
+​		Caso esta apostila esteja indisponível no link citado abaixo, fiz questão de a incluir neste repositório.
 
 ###### > https://www.ime.usp.br/~slago/slago-C.pdf
 
