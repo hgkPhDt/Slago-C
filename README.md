@@ -43,25 +43,9 @@
 
    > Pág. 14. Calcula o Cateto Oposto e o  Cateto Adjacente, obtendo a raiz quadrada e informando seu resultado.
 
-8. Exercício1.8.c
-
-   > Unknow
-   
-9. Exercício1.9.c
-
-   > Unknow
-
-10. Exercício2.0.c
-
-    > Unknow
-
-11. Exercício2.1.c
-
-    > Unknow
-
 12. Exercício2.2.c
 
-    > Pág. 18. Dado dois números distintos, informe qual dele é o maior.
+    > Pág. 18. Dado dois números distintos, informa qual dele é o maior.
 
 13. Exercício2.3.c
 

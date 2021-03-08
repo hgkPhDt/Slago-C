@@ -1,0 +1,60 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <ctype.h>
+#include <stdbool.h>
+
+//Limpa buffer do Major Anilton
+void bufferClean(){
+	char c;
+	while((c = getchar()) != '\n' && c != EOF);
+}
+
+//Função primária
+int main(){
+	//Declarando as varáveis
+	float _Real;
+	unsigned 
+_absolut;
+	unsigned char op;
+	bool lup;
+
+	//Laço de repetição do programa
+	do{
+		//Limpa tela
+		system("clear");
+
+		//Obtendo dados
+		printf("\n Informe um valor: ");
+		scanf("%f", &_Real);
+
+		//Operação do número real
+		_absolut = _Real;
+
+		//Saída de dados, com o numero real e seu valor absoluto
+		printf("\n O numero %f em seu estado absoluto e, %d.", _Real, _absolut);
+
+		//Verificando se o usuário vai continuar no programa
+		printf("\n\n Deseja continuar [Y/n]? ");
+		scanf(" %c", &op);
+
+		//Condicional para verificar se o usuário vai continuar no programa
+		if(tolower(op) == 'y'){
+			lup = true;
+		}else if(tolower(op) == 'n'){
+			lup = false;
+		}else{
+			printf("\n Hm... Acho que esse comando nao existe.\n");
+		}
+
+		//Limpeza de buffer
+		bufferClean();
+	}while(lup);
+	//Limpando o terminal
+	system("clear");
+
+	//Considerações finais
+	printf("\n\n\t::::::ENCERRADO::::::\n\n");
+
+	//Finalizando o programa
+	return 0;
+}

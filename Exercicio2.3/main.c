@@ -54,6 +54,7 @@ int main(){
 			printf("\n\n Perdoe-me, mas o comando informado e invalido.\n\n");
 		}
 
+
 		//Limpando o buffer
 		cleanBuffer();
 
