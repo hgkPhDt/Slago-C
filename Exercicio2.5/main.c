@@ -56,6 +56,9 @@ int main(){
 			printf("\n Comando nao encontrado.\n\n");
 		}
 
+		//Limpando o buffer
+		bufferClean();
+
 	//Saindo do laço de repetição
 	}while(lup);
 

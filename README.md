@@ -3,9 +3,28 @@
 ###### Códigos melhorados e exercícios respondidos da apostila gratuita do Silvio do lago pereira.
 
 ​		Apresento a vocês, os códigos e os exercícios feitos, que contém na apostila "Slago-C", disponibilizado pelo Instituto de Matemática e Estatística da Universidade de São Paulo. 
-​		Como notarão, existe algumas alterações, pois algumas coisas se tornaram obsoletas com o tempo e algumas modificações para tornar o código um pouco mais apresentável e intuítivo.
+​		Como notará, existe algumas alterações, pois algumas coisas se tornaram obsoletas com o tempo e algumas modificações para tornar o código um pouco mais apresentável e intuítivo.
 
-​		Você irá notar que alguns exercícios vão estar com "**Unknow**" abaixo. Esses exercícios, na verdade não existem de fato. São apenas exercícios comentados e em sua grande parte desnecessário ao meu ponto de vista. Caso queria mais informações, leia a apostila.
+​		Você irá notar que alguns exercícios estão com os numeros diferentes na apostila. Isso de deve pelos constantes erros que o livro contém, e por algum motivo o autor acabou errando a sequência de exercícios, duplicando o exercício 2.3 na página 18. Optei por continuar meus exercícios de forma linear, mesmo que na apostila apresente esta divergência de numerações dos exercícios.
+​		Você também notará que os exercícios começando no 1.3 e logo depois para no 1.7 passando para o 2.2. Isso não significa que estou deixando atividades para trás, mas pelo fato delas não existirem. Existem códigos comentados na apostila, e acredito eu, que deva ser por esse motivo. 
+
+​		Não inclui nenhum código ja feio da apostila que não venha agregar valor neste repositório. Caso houver algum código comentado que seja interessante, incluirei neste repositório com seu devido nome, assim como fiz com OBESO.c e PERIM.c. 
+
+​		Para executar esses programas, estou usando o GCC padrão do Linux Mint. Todos os executaveis estão em suas pastas com o nome **a.out** e seu código fonte como **main.c**. 
+
+
+
+#### Objetivo
+
+​		Meu objetivo com esta apostila é tomar conhecimento da linguagem e aprimorar meu entendimento em programação.  Assim que a concluir, terei interesse em estudar **C++** e mais tarde **C#**. Acredito eu que com o conhecimento em C, C++ e C#, posso ingressar facilmente em alguma empresa e aprimorar meu ser programmer. Além de conseguir ler, entender e codar em qualquer outra linguagem que eu for estudar mais adiante.
+
+
+
+#### Atualizações
+
+​		Ainda estou fazendo as atividades, vai me levar um tempo até concluir todos os exercícios. Conforme vou fazendo, adquiro novos conhecimentos e vou aprimorando ainda mais meus códigos. Senti a necessidade de atualizar os códigos anteriormente feitos, mas prefiro mante-los para no futuro ver minha evolução com esta apostila. Então, um código feito no exercício 2.3 pode estar diferente no 2.6 por exemplo. Algumas condicionais diferentes e operadores novos. Tudo vai depender do quanto eu evoluio.
+
+
 
 ​		Caso esta apostila esteja indisponível no link citado abaixo, fiz questão de a incluir neste repositório.
 
@@ -61,4 +80,13 @@
 
 12. Exercício2.6.c
 
-    > Pág. 19.
+    > Pág. 19. Conforme um banco de dados ou qualquer outro sistema que possa gerar erros terá uma variável para armazenar esse valor de erros para aprensentar ao responsável da manutenção. Sendo assim, com os Operadores Condicionais  **? :**  poderá ser facilmente avaliado e impresso esses valores.  
+    >
+    
+13. Exercício2.7.c
+
+    > Pág. 19. Imprime na tela valores lógicos como **true** e **false**. Numero **zero** é **false** e qualquer outro valor acima de **zero** é **true**.
+
+14. Exercício2.8.c
+
+    > Pág. 20. 
