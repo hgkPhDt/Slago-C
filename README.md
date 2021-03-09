@@ -76,11 +76,11 @@
     
 11. Exercício2.5.c
 
-    > Pág. 18. Informa ao usuário, quanto que seu salaŕio passará a ser, a partir da porcentagem informada. Se o salário for menor que R$ 750.00 reais, ganhará R$ 100.00 reais de bônus.
+    > Pág. 18. Informa ao usuário, quanto que seu salaŕio passará a ser, a partir da porcentagem de reajuste informado. Se o salário for menor que R$ 750.00 reais, ganhará R$ 100.00 reais de bônus.
 
 12. Exercício2.6.c
 
-    > Pág. 19. Conforme um banco de dados ou qualquer outro sistema que possa gerar erros terá uma variável para armazenar esse valor de erros para aprensentar ao responsável da manutenção. Sendo assim, com os Operadores Condicionais  **? :**  poderá ser facilmente avaliado e impresso esses valores.  
+    > Pág. 19. Em um sistema, existe uma variável com o nome atribuido de **e**. Nela é armazenado o número de erros que o sistema possui. Usando os Operadores Condicionais, é impresso no terminal seu numero de erros.
     >
     
 13. Exercício2.7.c
