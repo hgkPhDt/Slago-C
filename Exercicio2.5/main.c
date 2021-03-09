@@ -2,7 +2,6 @@
 #include <stdlib.h>
 #include <ctype.h>
 #include <stdbool.h>
-#include <math.h>
 
 //Limpa buffer do Major Anilton
 void bufferClean(){
@@ -10,6 +9,7 @@ void bufferClean(){
 	while((c = getchar()) != '\n' && c != EOF);
 }
 
+//Função primária
 int main(){
 	//Declarando as variáveis
 	float salario, slr_PORCENTAGEM, slr_AJUSTE;

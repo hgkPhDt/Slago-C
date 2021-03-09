@@ -57,7 +57,7 @@
     
 11. Exercício2.5.c
 
-    > Pág. 18. Informa ao usuário, quanto que seu salaŕio passará a ser, a partir da porcentagem informada.
+    > Pág. 18. Informa ao usuário, quanto que seu salaŕio passará a ser, a partir da porcentagem informada. Se o salário for menor que R$ 750.00 reais, ganhará R$ 100.00 reais de bônus.
 
 12. Exercício2.6.c
 
