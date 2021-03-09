@@ -53,4 +53,12 @@
 
 14. Exercício2.4.c
 
-    > Unknow
+    > Pág. 18. Dado um valor, o programa informa seu valor absoluto. 
+    
+11. Exercício2.5.c
+
+    > Pág. 18. Informa ao usuário, quanto que seu salaŕio passará a ser, a partir da porcentagem informada.
+
+12. Exercício2.6.c
+
+    > Pág. 19.
