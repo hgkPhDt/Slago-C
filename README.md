@@ -6,7 +6,7 @@
 ​		Como notará, existe algumas alterações, pois algumas coisas se tornaram obsoletas com o tempo e algumas modificações para tornar o código um pouco mais apresentável e intuítivo.
 
 ​		Você irá notar que alguns exercícios estão com os numeros diferentes na apostila. Isso de deve pelos constantes erros que o livro contém, e por algum motivo o autor acabou errando a sequência de exercícios, duplicando o exercício 2.3 na página 18. Optei por continuar meus exercícios de forma linear, mesmo que na apostila apresente esta divergência de numerações dos exercícios.
-​		Você também notará que os exercícios começando no 1.3 e logo depois para no 1.7 passando para o 2.2. Isso não significa que estou deixando atividades para trás, mas pelo fato delas não existirem. Existem códigos comentados na apostila, e acredito eu, que deva ser por esse motivo. 
+​		Você também notará que os exercícios começando no 1.3 e logo depois para no 1.7 passando para o 2.2. Isso não significa que estou deixando atividades para trás, mas pelo fato delas não existirem. O primeiro número informa a etapa que o livro está, o segundo informa o número do exercício referente ao sumário.
 
 ​		Não inclui nenhum código ja feio da apostila que não venha agregar valor neste repositório. Caso houver algum código comentado que seja interessante, incluirei neste repositório com seu devido nome, assim como fiz com OBESO.c e PERIM.c. 
 
@@ -89,4 +89,12 @@
 
 14. Exercício2.8.c
 
-    > Pág. 20. 
+    > Pág. 20. Informar se um aluno passou, reprovou ou precisou ficar me recuperação. Além de colocar cores como, vermelho, laranja e azul.
+    
+15. Exercício2.9.c
+
+    > Pág. 20.
+
+16. Exercício2.10.c
+
+    > Pág. 20.
