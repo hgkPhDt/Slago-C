@@ -93,8 +93,21 @@
     
 15. Exercício2.9.c
 
-    > Pág. 21.
+    > Pág. 21. Dado o valor do coeficiente a,b, e c. Descubra o valor de x¹ e x² da fórmula de Bháskara.
 
 16. Exercício2.10.c
 
-    > Pág. 21.
+    > Pág. 23. Modifica o exemplo 2.9 da apostila, aplicando mais um case no switch, colocando dois cases para a mesma operação, mudando apenas o operador representante.
+    
+17. Exercício2.11.c
+
+    > Pág. 23.
+
+18. Exercício2.12.c
+
+    > Pág. 23.
+
+19. Exercício2.13.c
+
+    > Pág. 23.
+
