@@ -89,12 +89,12 @@
 
 14. Exercício2.8.c
 
-    > Pág. 20. Informar se um aluno passou, reprovou ou precisou ficar me recuperação. Além de colocar cores como, vermelho, laranja e azul.
+    > Pág. 21. Informar se um aluno passou, reprovou ou precisou ficar me recuperação. Além de colocar cores como, vermelho, laranja e azul.
     
 15. Exercício2.9.c
 
-    > Pág. 20.
+    > Pág. 21.
 
 16. Exercício2.10.c
 
-    > Pág. 20.
+    > Pág. 21.
