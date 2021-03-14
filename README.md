@@ -101,13 +101,16 @@
     
 17. Exercício2.11.c
 
-    > Pág. 23. Informa qual o peso ideal para um homem e para uma mulher com base em sua altura e seu peso.
+    > Pág. 23. Informa qual o peso ideal para um homem e para uma mulher com base em sua altura.
 
 18. Exercício2.12.c
 
     > Pág. 23. Informando o ano de nascimento, diz qual o perfil da pessoa. 
 
-19. Exercício2.13.c
+19. Exercício3.1.c
 
-    > Pág. 23. 
+    > Pág. 24. **Resposta:** Porquê o 2+y seria calculado antes do x * 2.
 
+20. Exercício3.2.c
+
+    > Pág. 25. 
