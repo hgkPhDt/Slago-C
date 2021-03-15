@@ -117,20 +117,20 @@
     
 21. Exercício3.3.c
 
-    > Pág. 26.
+    > Pág. 26. Executa uma contagem regressiva usando o laço de repetição for.
 
 22. Exercício3.4.c
 
-    > Pág. 26.
+    > Pág. 26. Executa uma tablela, informando quantos centimetros é uma polegada.
 
 23. Exercício3.5.c
 
-    > Pág. 26.
+    > Pág. 26.  Dado um numero real o um numero natural, exibe sua potência.
 
 24. Exercício3.6.c
 
-    >  Pág. 26.
+    >  Pág. 26. Dado um numero natural, exibe seu fatorial n!.
 
 25. Exercício3.7.c
 
-    > Pág. 27.
+    > Pág. 27. 
