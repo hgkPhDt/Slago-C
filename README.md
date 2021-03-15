@@ -113,4 +113,24 @@
 
 20. Exercício3.2.c
 
-    > Pág. 25. 
+    > Pág. 25. **Resposta:** O Pós decremento no final da operação é invalidado pelo programa.
+    
+21. Exercício3.3.c
+
+    > Pág. 26.
+
+22. Exercício3.4.c
+
+    > Pág. 26.
+
+23. Exercício3.5.c
+
+    > Pág. 26.
+
+24. Exercício3.6.c
+
+    >  Pág. 26.
+
+25. Exercício3.7.c
+
+    > Pág. 27.
