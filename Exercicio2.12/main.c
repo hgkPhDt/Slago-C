@@ -16,13 +16,6 @@
 #define BLINK        "\x1B[5m"
 #define BLUE         "\x1B[34m"
 
-
-
-
-
-
-
-
 //Limpa buffer do Major Anilton
 void bufferClean(){
 	char c;
@@ -88,7 +81,7 @@ int main(){
 		x = part_1_int + part_2_int;
 		x_Resto = x % 5;
 
-		//Condicional que irá imprimir  o perfil da pessoa, mediante ao resto alocado na variável x_
+		//Condicional que irá imprimir  o perfil da pessoa, mediante ao resto alocado na variável x_Resto
 		switch(x_Resto){
 
 			case 0:
